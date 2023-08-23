@@ -21,8 +21,7 @@ if(isset($_POST['logar'])){
         print "<script>alert('Login invalido')</script>";
     }
 }
-    
-    
+     
 ?>
 
 <!DOCTYPE html>
